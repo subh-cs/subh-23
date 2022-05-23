@@ -6,6 +6,9 @@
 I'm a full stack developer and competitive programmer...
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subh-23&label=Profile%20views&color=00ff00&style=flat" alt="subh-23" /> </p>
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://subh0dip-portfolio.web.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
