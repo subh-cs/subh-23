@@ -16,7 +16,7 @@ I'm a Full Stack Web3 developer who love challanges...
 
 
 <!-- ## Other Common Github Profile Sections -->
-👩‍💻 I'm currently working on building APIs for Solana Programs
+👩‍💻 I'm currently working on building Fast APIs for Solana Programs.
 
-⚡️ Fun fact is that I'm a Coder, Musician, Speedcuber and a Gym guy as well  
+⚡️ Fun fact is that I'm a Coder, Musician, Speedcuber and a Gym guy as well.
 
