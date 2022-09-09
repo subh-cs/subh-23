@@ -6,10 +6,10 @@
 I'm a Full Stack Web3 developer who love challanges...
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subh-23&label=Profile%20views&color=00ff00&style=flat" alt="subh-23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subh-23&label=Profile%20views&color=00ff00&style=flat" alt="subh-23" /> 
 
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/subh-23)
-
+</p>
 
 
 <!-- ## 🔗 Links -->
