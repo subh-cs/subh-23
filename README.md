@@ -15,7 +15,7 @@ I'm a Full Stack Web3 developer who love challanges...
 
 
 <!-- ## Other Common Github Profile Sections -->
-👩‍💻 I'm currently working on building OrderLy: A B2B distributed platform.
+👩‍💻 I'm currently working on building OrderLy: a B2B distributed platform.
 
 ⚡️ Fun fact: My roles are coder, guitarist, speedcuber and gym guy as well.
 
