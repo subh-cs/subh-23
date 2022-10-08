@@ -50,14 +50,14 @@
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/subh-23/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-23&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="subh-23 :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/subh-23/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subh-23&theme=gruvbox&layout=compact&hide_border=true"
           alt="subh-23 :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subh-23&theme=gruvbox&layout=compact&hide_border=true"
           alt="subh-23 :: Top Langs by commit" />
           </a>
         </p>
@@ -66,8 +66,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/subh-23/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=subh-23&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=subh-23&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -81,7 +81,7 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/subh-23/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=subh-23&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="subh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=subh-23&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
