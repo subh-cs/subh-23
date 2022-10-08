@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Subhodip</h1>
-<h4 align="center">A Full-stack Web3 Developer and also a CS undergrad, see my <a href="https://bit.ly/3VbEB7R" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Subh</h1>
+<h4 align="center">A Full-stack web3 Developer who love challanges, see my <a href="https://bit.ly/3VbEB7R" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -88,7 +88,7 @@
   
 
 <details>
-  <summary>😒 random stuff</summary>
+  <summary>😒 Random stuff</summary>
 <div>
 <samp>
 <h2 align="center"> just an ascii art of me holding an umbrella </h2>
