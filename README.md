@@ -86,8 +86,8 @@
   </samp>
   </details>
   
+
 <details>
-<details open>
   <summary>😒 random stuff</summary>
 <div>
 <samp>
@@ -146,8 +146,7 @@
 */
 ```
 </details>
-<br/>
-</details> 
+
 
 -----
 Credits: [subh-23](https://github.com/subh-23)
