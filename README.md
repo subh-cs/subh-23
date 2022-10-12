@@ -149,5 +149,3 @@
 
 
 -----
-Credits: [subh-23](https://github.com/subh-23)
-Last Edited on: 08/10/2022
