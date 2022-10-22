@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/subhodip-roy/">
-  <img  src="bannerImg/finalBanner.png" width=800 height=200/></a>
+  <img  src="bannerImg/finalBanner.png" width=800/></a>
 </div>
 
 <div align="center">
