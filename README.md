@@ -6,7 +6,7 @@
 <div align="center">
 <!-- Hi I'm Subhodip Roy, a full-stack developer and a software engineer from India. -->
 <!-- <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Subh</h1> --!>
-<h4 align="center">A Full-stack web3 Developer who love challanges </h4>
+<!-- <h4 align="center">A Full-stack web3 Developer who love challanges </h4> --!>
 </div>
 
 
