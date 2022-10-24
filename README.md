@@ -8,6 +8,16 @@
 <!-- <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Subh</h1> --!>
 <!-- <h4 align="center">A Full-stack web3 Developer who love challanges </h4> --!>
 </div>
+<hr>
+
+<div align=center>
+        <a href="https://github.com/subh-23/">
+          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-23&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="subh-23 :: overall Top Langs " />
+           <img width="54%" src="https://github-readme-stats.vercel.app/api?username=subh-23&show_icons=true&theme=gruvbox&hide_border=true" />
+        </a>
+   
+</div>
 
 
 
