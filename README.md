@@ -28,7 +28,7 @@
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/subhodip-roy/" target="blank"><img align=center width="10%" src="https://user-images.githubusercontent.com/75121304/197448412-66284239-91ed-444f-b320-ac8f9c01caf4.gif"> </a>  
-      <a href="mailto:subhodiproy281@gmail.com" target="blank"><img align=center width="10%" src="https://user-images.githubusercontent.com/75121304/197448607-776d1f4a-066a-44e0-b50e-c0bb6201b2f9.gif"> </a> 
+      <a href="mailto:subhodiproy281@gmail.com" target="blank"><img align=center width="8%" src="https://user-images.githubusercontent.com/75121304/197449582-fe0d0f53-d895-46d4-b351-1338eab79406.png"> </a>
     </p>
 </div>
 </details>
