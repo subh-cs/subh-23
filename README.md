@@ -24,20 +24,12 @@
 -----
 <details>
   <summary>☎️ Contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
+<div align=center>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/subhodip-roy/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:subhodiproy281@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+      <a href="https://www.linkedin.com/in/subhodip-roy/" target="blank"><img align=center width="10%" src="https://user-images.githubusercontent.com/75121304/197448412-66284239-91ed-444f-b320-ac8f9c01caf4.gif"> </a>  
+      <a href="mailto:subhodiproy281@gmail.com" target="blank"><img align=center width="10%" src="https://user-images.githubusercontent.com/75121304/197448607-776d1f4a-066a-44e0-b50e-c0bb6201b2f9.gif"> </a> 
     </p>
-  <p align="center">
-  </samp>
 </div>
 </details>
 
