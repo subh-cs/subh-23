@@ -10,7 +10,7 @@
 </div>
 <hr>
 
-<div align=center>
+<div align=center width=800>
         <a href="https://github.com/subh-23/">
           <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-23&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="subh-23 :: overall Top Langs " />
