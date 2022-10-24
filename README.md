@@ -35,6 +35,7 @@
       <a href="mailto:subhodiproy281@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
+         ![372102050_LINKEDIN_ICON_TRANSPARENT_1080](https://user-images.githubusercontent.com/75121304/197447352-53a78864-c32a-4b50-8d31-107058e1d224.gif)
     </p>
   <p align="center">
   </samp>
